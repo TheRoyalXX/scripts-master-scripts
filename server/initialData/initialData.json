@@ -1,0 +1,55 @@
+{
+  "cards": [
+    {
+      "title": "HTML Font COLOR",
+      "category": "HTML",
+      "difficulty": "Easy",
+      "language": "JavaScript",
+      "code": "no neeeeed <font color : red 30px shadow mark ok>",
+      "developer": "Itay Reizel",
+      "fullScriptLink": "go find in google or ask chatgpt",
+      "user_id": 1001
+    }
+  ],
+
+  "users": [
+    {
+      "name": {
+        "firstName": "User",
+        "lastName": "One"
+      },
+      "email": "user1@gmail.com",
+      "phone": "036205074",
+      "password": "Aa1234!",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/7717/7717267.png",
+
+      "isAdmin": false,
+      "isBusiness": true
+    },
+    {
+      "name": {
+        "firstName": "User",
+        "lastName": "Two"
+      },
+      "email": "user2@gmail.com",
+      "phone": "0526574301",
+      "password": "Aa1234!",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/7717/7717267.png",
+
+      "isAdmin": false,
+      "isBusiness": true
+    },
+    {
+      "name": {
+        "firstName": "Admin",
+        "lastName": "Admin"
+      },
+      "email": "admin@gmail.com",
+      "phone": "0559187869",
+      "password": "Aa1234!",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/7717/7717267.png",
+      "isAdmin": true,
+      "isBusiness": false
+    }
+  ]
+}
